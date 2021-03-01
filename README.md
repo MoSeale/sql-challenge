@@ -50,4 +50,4 @@ The completed database, was queried to obtain the following:
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 # Bonus
-The SQL database was imported into Pandas to create a bar chart of average salary by title. 
+The SQL database was imported into Pandas to create a bar chart of average salary by title. See the file "\EmployeeSQL\Bonus.ipynb.
